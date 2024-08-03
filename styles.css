@@ -1,0 +1,30 @@
+* {
+    font-family: "Exo", sans-serif;
+}
+
+h1 {
+    color: yellowgreen;
+}
+
+h2 {
+    color: rgb(233, 0, 0);
+}
+
+.list-title {
+    color: blue;
+}
+
+.family-img {
+    position: absolute;
+    z-index: -1 ; 
+    opacity: 0.2;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+}
+
+.main {
+    padding-left: 5px;
+}
